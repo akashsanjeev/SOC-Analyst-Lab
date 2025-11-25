@@ -20,8 +20,8 @@ As a transitioning professional with a background in Operations Management, this
 
 ## 📂 Project Modules
 1. **[COMPLETED] SIEM Deployment:** Automated deployment of Wazuh Manager & Agent configuration.
-2. **[PLANNED] Attack Simulation:** SSH Brute Force & Detection.
-3. **[PLANNED] Telemetry:** Network traffic analysis with Wireshark.
+2. **[COMPLETED] Attack Simulation:** SSH Brute Force & Detection.
+3. **[COMPLETED] Telemetry:** Network traffic analysis with Wireshark.
 4. **[PLANNED] AI Integration:** Python-based log anomaly detection.
 
 ---
